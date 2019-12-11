@@ -1,8 +1,8 @@
 import pytest
-import index
+import inde
 
 def test_uncovered_if():
-    assert index.uncovered_if() == False
+    assert inde.uncovered_if() == False
 
 # def test_fully_covered():
 #     assert index.fully_covered() == True
