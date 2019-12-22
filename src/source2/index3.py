@@ -10,3 +10,5 @@ def fully_covered3():
 def uncovered():
     return True
 
+def something_else():
+  return False
