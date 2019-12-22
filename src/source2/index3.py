@@ -1,10 +1,10 @@
-def uncovered_if(var=True):
+def uncovered_if3(var=True):
     if var:
       return False
     else:
       return True
 
-def fully_covered2():
+def fully_covered3():
     return True
 
 def uncovered():
