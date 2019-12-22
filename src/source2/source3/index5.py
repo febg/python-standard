@@ -1,0 +1,2 @@
+def allcovered():
+    return True
