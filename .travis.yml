@@ -6,5 +6,4 @@ install:
 script:
   - pytest --cov=./ --cov-report=xml
   - codecov
-  - cd src
   - python request.py
